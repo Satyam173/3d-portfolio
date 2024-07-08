@@ -194,9 +194,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Chess.com",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "The Chess.com Clone App allows users to play chess online, featuring user authentication, real-time multiplayer matches, and game analysis tools.",
       tags: [
         {
           name: "react",
@@ -215,7 +215,7 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Job Finder",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
@@ -236,16 +236,16 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Travel Booking",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "The Travel Booking App allows users to search, book, and manage travel itineraries with secure payments. It features real-time availability and user authentication.",
       tags: [
         {
-          name: "nextjs",
+          name: "reactjs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "mongo",
           color: "green-text-gradient",
         },
         {
